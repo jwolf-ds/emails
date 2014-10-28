@@ -1,0 +1,4 @@
+emails
+======
+
+Storing email examples
